@@ -1,0 +1,19 @@
+{
+  "name": "gepetto",
+  "version": "1.0.0",
+  "description": "A simpler Slack Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannych/gepetto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannych/gepetto/issues"
+  },
+  "homepage": "https://github.com/dannych/gepetto#readme"
+}
