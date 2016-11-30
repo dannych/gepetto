@@ -23,3 +23,14 @@ Now, we are ready to start creating our Bot
 ---
 
 create `index.js` file
+
+starting up bot 
+
+```
+let Botkit = require('botkit');
+
+let controller = Botkit.slackbot({});
+let bot = controller.spawn({ 
+    token: 'your-token'
+}).startRTM();
+```
