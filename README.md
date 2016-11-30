@@ -19,3 +19,7 @@ We will need some helps from a third party plugin to simplify Slack API - BotKit
 run `npm install --save botkit`
 
 Now, we are ready to start creating our Bot
+
+---
+
+create `index.js` file
