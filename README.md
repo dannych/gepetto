@@ -34,3 +34,15 @@ let bot = controller.spawn({
     token: 'your-token'
 }).startRTM();
 ```
+
+---
+
+Creating token
+
+**Note!** creating a bot will consume one of your available integration limit. 
+
+You can use your existing Slack team chatroom or just create a new one.
+
+After selecting the desired chatroom, create a bot by following this link https://my.slack.com/services/new/bot
+
+Give the bot a name and then you will be given the bot's token.
