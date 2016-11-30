@@ -46,3 +46,15 @@ You can use your existing Slack team chatroom or just create a new one.
 After selecting the desired chatroom, create a bot by following this link https://my.slack.com/services/new/bot
 
 Give the bot a name and then you will be given the bot's token.
+
+--- 
+
+Creating response
+
+```
+controller.hears('hello',['direct_message','direct_mention','mention'],function(bot,message) {
+    bot.reply(message,'Hello World!');
+});
+```
+
+start `node index`
