@@ -8,7 +8,7 @@ We are going to use NodeJS and JavaScript as our main programming language to de
 
 Check node version
 
-run `node --version`
+run `node --version` my version `v6.3.1`
 
 Start node project
 
