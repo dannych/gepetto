@@ -1,36 +1,18 @@
-# Gepetto
+## Install Bot
 
-A simpler Slack bot.
+In this module, you will prepare your Bot by injecting and using the BotKit library.
 
----
-
-We are going to use NodeJS and JavaScript as our main programming language to develop this Slack bot.
-
-Check node version
-
-run `node --version` my version `v6.3.1`
-
-Start node project
-
-run `npm init` and enter all the way
-
-We will need some helps from a third party plugin to simplify Slack API - BotKit
-
-run `npm install --save botkit`
-
-Now, we are ready to start creating our Bot
-
----
-
-create `index.js` file
-
-starting up bot 
-
+1. Create the entry file `touch index.js`
+2. Open the file with your favorite editor
+3. Import the BotKit library by adding this line `let Botkit = require('botkit');`
+4. The library has created an abstraction of the complicated Slack API. All you need is to put all these codes: 
 ```
-let Botkit = require('botkit');
-
 let controller = Botkit.slackbot({});
 let bot = controller.spawn({ 
     token: 'your-token'
 }).startRTM();
 ```
+
+*Cool!* Your Bot is almost complete. 
+
+**Next:** [Register Bot](https://github.com/dannych/gepetto/tree/3-token)
