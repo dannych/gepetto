@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/dannych/gepetto.git"
   },
-  "author": "",
+  "author": "Danny Christanto <dnny.ch@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dannych/gepetto/issues"
