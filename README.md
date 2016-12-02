@@ -19,6 +19,13 @@ The materials and the codes are separated into different modules, which are inte
 3. [Register Bot](https://github.com/dannych/gepetto/tree/3-token)
 4. [Create Your Bot](https://github.com/dannych/gepetto/tree/4-respond)
 
+## Quick Start
+
+If you are familiar with Git, Node, and stuffs
+
+1. Clone this project
+2. Get your token [here](https://github.com/dannych/gepetto/tree/3-token)
+
 ## What's Next
 
 *Great!* From this project, you have learned how to create a simple Bot for your Slack team. To create more sophisticated Bot, you will need to read through the available API or see other projects like this.
