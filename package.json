@@ -1,0 +1,22 @@
+{
+  "name": "gepetto",
+  "version": "1.0.0",
+  "description": "A simpler Slack Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannych/gepetto.git"
+  },
+  "author": "Danny Christanto <dnny.ch@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannych/gepetto/issues"
+  },
+  "homepage": "https://github.com/dannych/gepetto#readme",
+  "dependencies": {
+    "botkit": "0.4.2"
+  }
+}
