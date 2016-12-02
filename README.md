@@ -1,48 +1,18 @@
-# Gepetto
+## Register Bot
 
-A simpler Slack bot.
+In this module, you will register your Bot to the Slack application
 
----
+1. Login into one of your chatroom or, if you don't have, simple create a new one.
+2. Register your bot here https://my.slack.com/services/new/bot
+3. Assign its name and you will be given the Bot's token
 
-We are going to use NodeJS and JavaScript as our main programming language to develop this Slack bot.
+*Awesome!* Your Bot is registered, now you need to put it into your `index.js.` file by replacing the `your-token`  text with your real token.
 
-Check node version
-
-run `node --version` my version `v6.3.1`
-
-Start node project
-
-run `npm init` and enter all the way
-
-We will need some helps from a third party plugin to simplify Slack API - BotKit
-
-run `npm install --save botkit`
-
-Now, we are ready to start creating our Bot
-
----
-
-create `index.js` file
-
-starting up bot 
-
+_**Note! keep your token safe**_ 
 ```
-let Botkit = require('botkit');
-
-let controller = Botkit.slackbot({});
 let bot = controller.spawn({ 
-    token: 'your-token'
+    token: 'XXXXX-XXXXX-XXXX-XXX'
 }).startRTM();
 ```
 
----
-
-Creating token
-
-**Note!** creating a bot will consume one of your available integration limit. 
-
-You can use your existing Slack team chatroom or just create a new one.
-
-After selecting the desired chatroom, create a bot by following this link https://my.slack.com/services/new/bot
-
-Give the bot a name and then you will be given the bot's token.
+**Next:** [Create "Your" Bot](https://github.com/dannych/gepetto/tree/4-respond)
