@@ -1,21 +1,16 @@
-# Gepetto
+## Setup Project
 
-A simpler Slack bot.
+I assume that you're already *pretty* familiar with your terminal or console, and installed NodeJS.
 
----
+----
 
-We are going to use NodeJS and JavaScript as our main programming language to develop this Slack bot.
+In this module, you will setup your project and its dependancies.
 
-Check node version
+1. Open your terminal
+2. Create the project directory `mkdir test && cd $_`
+3. Initiate node package `npm init`
+4. Install Botkit library `npm install --save botkit`
 
-run `node --version` my version `v6.3.1`
+Congrats, you project is ready! 
 
-Start node project
-
-run `npm init` and enter all the way
-
-We will need some helps from a third party plugin to simplify Slack API - BotKit
-
-run `npm install --save botkit`
-
-Now, we are ready to start creating our Bot
+**Next:** [Install Bot](https://github.com/dannych/gepetto/tree/2-node)
