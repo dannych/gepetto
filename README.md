@@ -58,3 +58,9 @@ controller.hears('hello',['direct_message','direct_mention','mention'],function(
 ```
 
 start `node index`
+
+open your Slack chatroom.
+
+See that your Bot is turned on which indicated by green circle besides its name.
+
+Start a conversation by clicking the name, and say 'Hi'
