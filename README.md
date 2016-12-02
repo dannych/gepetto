@@ -15,7 +15,7 @@ This project requires and only works because of these *awesome* tools:
 The materials and the codes are separated into different modules, which are intended to guide you in the right direction, to create your own Bot from scratch.
 
 1. [Setup Project](https://github.com/dannych/gepetto/tree/1-npm)
-2. [Install Dependencies](https://github.com/dannych/gepetto/tree/2-node)
+2. [Install Bot](https://github.com/dannych/gepetto/tree/2-node)
 3. [Register Bot](https://github.com/dannych/gepetto/tree/3-token)
 4. [Create Your Bot](https://github.com/dannych/gepetto/tree/4-respond)
 
