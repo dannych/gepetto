@@ -6,7 +6,7 @@ A simpler Slack bot.
 
 This project requires and only works because of these *awesome* tools:
 
-- [__NodeJS__](https://nodejs.org/download/release/v6.3.0/) `v6.3.1`
+- [__NodeJS__](https://nodejs.org/download/release/v6.3.0/) `6.3.1`
 - __NPM__ `3.10.3`
 - [__BotKit__](https://github.com/howdyai/botkit) `0.4.2`
 
@@ -21,6 +21,6 @@ The materials and the codes are separated into different modules, which are inte
 
 ## What's Next
 
-*Great!* From this project, you have learned how to create a simple Bot for your Slack team. To create more sophisticated Bot, you will need to read through the available API or see other projects like this
+*Great!* From this project, you have learned how to create a simple Bot for your Slack team. To create more sophisticated Bot, you will need to read through the available API or see other projects like this.
 
 - [Pinocchio](https://github.com/dannych/pinocchio)
