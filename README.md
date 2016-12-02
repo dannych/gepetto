@@ -25,8 +25,8 @@ If you are familiar with Git, Node, and stuffs
 
 1. Clone this project
 2. Get your token [here](https://github.com/dannych/gepetto/tree/3-token)
-3. Run `npm start`
-4. Say `hello`
+3. Run `npm start` 
+4. Say `hello` to your bot
 
 ## What's Next
 
