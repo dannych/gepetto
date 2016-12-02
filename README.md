@@ -6,6 +6,6 @@ controller.hears('hello',['direct_message','direct_mention','mention'],function(
     bot.reply(message,'Hello World!');
 });
 ```
-* Start your bot by `node index`
+* Start your bot by running `node index`
 * Open your Slack chatroom.
 * Say `hello` to your Bot
