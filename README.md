@@ -13,4 +13,4 @@ In this module, you will setup your project and its dependancies.
 
 Congrats, you project is ready! 
 
-**Next:** [Install Bot](https://github.com/dannych/gepetto/tree/2-node)
+**Next:** [Setup Bot](https://github.com/dannych/gepetto/tree/2-node)
