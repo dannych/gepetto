@@ -15,4 +15,4 @@ let bot = controller.spawn({
 }).startRTM();
 ```
 
-**Next:** [Create "Your" Bot](https://github.com/dannych/gepetto/tree/4-respond)
+**Next:** [Start "Your" Bot](https://github.com/dannych/gepetto/tree/4-respond)
