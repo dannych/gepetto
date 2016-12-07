@@ -15,4 +15,4 @@ let bot = controller.spawn({
 
 *Cool!* Your Bot is almost complete. 
 
-**Next:** [Register Bot](https://github.com/dannych/gepetto/tree/3-token)
+**Next:** [Register Bot and Get Token](https://github.com/dannych/gepetto/tree/3-token)
